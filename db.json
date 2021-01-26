@@ -43,8 +43,8 @@
         "mortalPrimary": "#d9bb22",
 
         "mortalSecondaryDark": "#6d1b7b",
-        "mortalSecondaryLight": "##af52bf",
-        "mortalSecondary": "##9c27b0",
+        "mortalSecondaryLight": "#af52bf",
+        "mortalSecondary": "#9c27b0",
 
         "mortalDragonPrimary": "#FFAD00",
         "mortalDragonSecondary": "#1D1D1D"

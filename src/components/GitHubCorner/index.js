@@ -11,8 +11,8 @@ const Wrapper = styled.div`
 `;
 
 const SVGWrapper = styled.svg`
-  fill: ${({ theme }) => theme.colors.mortalDragonPrimary};
-  color: ${({ theme }) => theme.colors.mortalDragonSecondary};
+  fill: ${({ theme }) => theme.colors.mortalDragonSecondary};
+  color: ${({ theme }) => theme.colors.mortalDragonPrimary};
   cursor: pointer;
   &:hover .octo-arm{
     animation:octocat-wave 560ms ease-in-out
