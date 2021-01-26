@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import { useRouter } from 'next/router';
 import db from '../db.json';
 import Widget from '../src/components/Widget';
-import QuizLogo from '../src/components/Quizlogo';
+import QuizLogo from '../src/components/QuizLogo';
 import Footer from '../src/components/Footer';
 import QuizBackground from '../src/components/QuizBackground';
 import GitHubCorner from '../src/components/GitHubCorner';
