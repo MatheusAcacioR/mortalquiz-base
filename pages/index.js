@@ -9,6 +9,8 @@ import QuizLogo from '../src/components/QuizLogo';
 import Footer from '../src/components/Footer';
 import QuizBackground from '../src/components/QuizBackground';
 import GitHubCorner from '../src/components/GitHubCorner';
+import Input from '../src/components/Input';
+import Button from '../src/components/Button';
 
 // const BackgroundImage = styled.div`
 //   background-image: url(${db.bg});
@@ -48,17 +50,15 @@ export default function Home() {
               router.push(`/QuizPage?name=${name}`);
             }}
             >
-              <input
-                onChange={function (infosDoEvento) {
-                  console.log(infosDoEvento.target.value);
-                  setName(infosDoEvento.target.value);
-                }}
+              <Input
+                name="nomeDoUsuario"
+                onChange={(infosDoEvento) => setName(infosDoEvento.target.value)}
                 placeholder="Diz ae seu nome"
+                value={name}
               />
-              <button type="submit" disabled={name.length === 0}>
-                Jogue agora,
-                {name}
-              </button>
+              <Button type="submit" disabled={name.length === 0}>
+                {`Jogue agora, ${name}`}
+              </Button>
             </form>
           </Widget.Content>
         </Widget>
@@ -68,7 +68,7 @@ export default function Home() {
 
             <h1>Quiz da galera</h1>
 
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex distinctio nulla, voluptates deserunt sequi modi maxime porro reprehenderit, nam quidem possimus odio reiciendis optio et autem numquam tempora, molestias a.</p>
+            <p>Lorem ipsum dolor, sit amet consectetur </p>
           </Widget.Content>
         </Widget>
         <Footer />

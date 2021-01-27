@@ -3,7 +3,7 @@ import Head from 'next/head';
 
 // src/components/Footer/index.js
 const FooterWrapper = styled.footer`
-  background-color: #00000070;
+  background-color: #000000DA;
   color: white;
   padding: 20px;
   display: flex;

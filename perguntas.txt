@@ -1,0 +1,95 @@
+Liu Kang
+High fireball: Forward, Forward, High Punch
+
+Low fireball: Forward, Forward, Low Punch
+
+Super Kick: Forward, Forward, High Kick
+
+Bicycle Kick: Hold Low Kick for 4 seconds, then let go.
+
+Air fireball: Forward, Forward, High Punch
+
+Fatality 1: Up, Down, Up, Up, Block+Run
+
+Fatality 2: Forward, Forward, Down, Down, Low Kick
+
+Friendship: Run, Run, Run, Down+Run
+
+Babality: Down, Down, Down, High Kick
+
+Stage Fatality: Run, Block, Block, Low Kick
+
+Animality (Sweep distance): Down, Down, Up
+
+Sub-Zero
+Ice Clone: Down, Back, Low Punch
+
+Slide: Back+Low Kick+Block+Low Punch
+
+Ice Shower: Down, Forward, High Punch
+
+Ice Puddle: Down, Forward, Low Punch
+
+Backwards Ice Shower: Down, Back, Forward, High Punch
+
+Fatality 1 (Close): Block, Block, Run, Block, Run
+
+Fatality 2 (Sweep Distance): Back, Back, Down, Back, Run
+
+Friendship: Low Kick, Run, Run, Up
+
+Babality: Down, Back, Back, High Kick
+
+Stage Fatality: Back, Down, Forward, Forward, High Kick
+
+Animality (Close): Forward, Up, Up
+
+Sektor
+Homing Missle: Down, Back, High Punch
+
+Straight Missle: Forward, Forward, Low Punch
+
+Teleport Punch: Forward, Forward, Low Kick
+
+Fatality 1 (Half Screen Away): Forward, Forward, Forward, Back, Block
+
+Fatality 2 (Sweep Distance): Low Punch, Run, Run, Block
+
+Friendship (Half Screen Away): Run, Run, Run, Run, Down
+
+Babality: Back, Down, Down, Down, High Kick
+
+Stage Fatality: Run, Run, Run, Down
+
+Animality (Close): Forward, Forward, Down, Up
+
+Cyrax
+Capture Net: Back, Back, Low Kick
+
+Far Bomb: Hold Low Kick, press Forward, Forward, High Kick
+
+Short Range Bomb: Hold Low Kick, press Back, Back, High Kick
+
+Flying Jump: Down, Forward, Block (Press Low Punch for mid-air throw)
+
+Teleport: Forward, Down, Block
+
+Fatality 1: Down, Down, Up, Down, High Punch
+
+Fatality 2 (Close): Down, Down, Forward, Up, Run
+
+Friendship: Run, Run, Run, Up
+
+Babality: Forward, Forward, Back, High Punch
+
+Stage Fatality: Run, Block, Run
+
+Animality (Close): Up, Up, Down, Down
+
+-------------------------------------------------------
+
+Quantos subzeros existem no universo de mortal kombat: 2
+
+Quantas skins do subzero existem no MK 9: 4
+
+O que acontece com smoke no MK9? : Subzero se sacrifica para que ele nao se torna-se robo 

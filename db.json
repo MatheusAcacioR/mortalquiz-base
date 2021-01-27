@@ -4,25 +4,63 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://raw.githubusercontent.com/matheus-2000/mortalquiz-base/main/da8n4ef-fff346d0-1e72-4aa9-9515-6254a7b96bd7.gif",
+        "title": "Qual é o comando do ataque 'Ice Puddle' do Sub-zero no MK1 ??",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Baixo, Trás, Soco baixo",
+          "Frente, Baixo, Soco baixo",
+          "Baixo, Frente, Soco alto",
+          "Trás, Baixo, Soco baixo"
         ]
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "title": "O que acontece com smoke no MK9 durante os eventos do primeiro Mortal Kombat ??",
         "description": "Faz tempo em haha",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Se encontra com um soldado Tarkateano",
+           "Morre em uma luta contra a Sindel",
+           "Subzero se sacrifica para que ele nao se torne-se robo",
+           "Nenhuma das anteriores"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual a raça do Baraka ??",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "Tarkataneo",
+           "Edeniano",
+           "Humano",
+           "Demônio"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual o jogo em que Liu Kang morre pela primeira vez ??",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "MK 2",
+           "MK 3",
+           "MK: Deception",
+           "MK: Deadly Alliance"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual o nome desse personagem ??",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "Goro",
+           "Gorbak",
+           "Hotaro",
+           "Motaro"
         ]
       }
     ],
