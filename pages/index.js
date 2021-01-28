@@ -73,7 +73,7 @@ export default function Home() {
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/matheus-2000" />
+      <GitHubCorner projectUrl="https://github.com/matheus-2000/mortalquiz-base" />
     </QuizBackground>
   );
 }

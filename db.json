@@ -4,7 +4,7 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://raw.githubusercontent.com/matheus-2000/mortalquiz-base/main/da8n4ef-fff346d0-1e72-4aa9-9515-6254a7b96bd7.gif",
+        "image": "https://github.com/matheus-2000/mortalquiz-base/blob/main/assets/da8n4ef-fff346d0-1e72-4aa9-9515-6254a7b96bd7.gif?raw=true",
         "title": "Qual é o comando do ataque 'Ice Puddle' do Sub-zero no MK1 ??",
         "description": "Essa é pra aquecer",
         "answer": 2,
@@ -62,10 +62,73 @@
            "Hotaro",
            "Motaro"
         ]
+      },
+      {
+        "image": "https://github.com/matheus-2000/mortalquiz-base/blob/main/assets/ClutteredGleamingIchidna-size_restricted.gif?raw=true",
+        "title": "Qual o nome da habilidade de Cyrax que tem esses comandos: Trás, Trás, Chute baixo ??",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "Flying Jump",
+           "Short Range Bomb",
+           "Capture Net",
+           "Teleport"
+        ]
+      },
+      {
+        "image": "https://github.com/matheus-2000/mortalquiz-base/blob/main/assets/04.png?raw=true",
+        "title": "Qual o último personagem que você enfrenta na torre dos desafios ??",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "Shao Khan",
+           "O espelho do seu personagem",
+           "Onaga",
+           "Motaro"
+        ]
+      },
+      {
+        "image": "https://github.com/matheus-2000/mortalquiz-base/blob/main/assets/giphy.gif?raw=true",
+        "title": "Quantos subzeros existem no universo de mortal kombat ??",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "3",
+           "4",
+           "1",
+           "2"
+        ]
+      },
+      {
+        "image": "https://github.com/matheus-2000/mortalquiz-base/blob/main/assets/onaga06.gif?raw=true",
+        "title": "Onaga, foi o imperador de Outword antes de Shao Khan. Como ele perdeu o trono ??",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "Ele nunca foi imperador",
+           "Seu general de maior confiança, Shao Khan, o matou envenenado e depois tomou o trono",
+           "Morreu em batalha",
+           "Ele não morreu e ainda é imperador"
+        ]
+      },
+      {
+        "image": "https://github.com/matheus-2000/mortalquiz-base/blob/main/assets/tumblr_nrkbw2gx7a1u4suz0o1_500.gif?raw=true",
+        "title": "Quantas skins do subzero existem no MK 9 ??",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "2",
+           "5",
+           "4",
+           "1"
+        ]
       }
     ],
     "external": [
-      ""
+      "https://github.com/davifelix5/quiz-with-nextjs",
+      "https://github.com/italocarlo06/aluraquiz",
+      "https://github.com/RenatoFrancisco/aluraquiz-base",
+      "https://github.com/llofyy/naruto-quiz"
     ],
     "theme": {
       "colors": {
