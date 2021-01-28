@@ -43,7 +43,7 @@ export default function App({ Component, pageProps }) {
         <meta property="og:url" content="https://mortalquiz-base.vercel.app" />
         <meta property="og:title" content="Site quiz mortal Kombat" />
         <meta property="og:site_name" content="Kombat Quiz" />
-        <meta property="og:description" content="Veja se vc é digno de levar o prêmio do Mortal Kombat ou seja sera morto por um Fatality!" />
+        <meta property="og:description" content="Veja se vc é digno de levar o prêmio do Mortal Kombat ou sera morto por um Fatality!" />
         <meta property="og:image" content="https://github.com/matheus-2000/mortalquiz-base/blob/main/kombat-quiz.png?raw=true" />
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="1599" />
