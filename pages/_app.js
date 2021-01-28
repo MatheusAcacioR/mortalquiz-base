@@ -54,6 +54,8 @@ export default function App({ Component, pageProps }) {
         <meta property="twitter:image" content="https://github.com/matheus-2000/mortalquiz-base/blob/main/kombat-quiz.png?raw=true" />
         <meta property="twitter:creator" content="Matheus Acácio Rodrigues" />
         <meta property="twitter:site" content="Kombat Quiz" />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="thumbnail" content="https://github.com/matheus-2000/mortalquiz-base/blob/main/kombat-quiz.png?raw=true" />
       </Head>
       <ThemeProvider theme={theme}>
         <GlobalStyle />
