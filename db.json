@@ -125,10 +125,10 @@
       }
     ],
     "external": [
-      "https://github.com/davifelix5/quiz-with-nextjs",
-      "https://github.com/italocarlo06/aluraquiz",
-      "https://github.com/RenatoFrancisco/aluraquiz-base",
-      "https://github.com/llofyy/naruto-quiz"
+      "https://quiz-with-nextjs.davifelix.vercel.app",
+      "https://aluraquiz.italocarlo06.vercel.app",
+      "https://aluraquiz-base-pearl.vercel.app",
+      "https://naruto-quiz.llofyy.vercel.app"
     ],
     "theme": {
       "colors": {
