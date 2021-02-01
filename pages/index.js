@@ -58,7 +58,7 @@ export default function Home() {
           <Widget.Content>
             <form onSubmit={function (infosDoEvento) {
               infosDoEvento.preventDefault();
-              router.push(`/QuizPage?name=${name}`);
+              router.push(`/quiz?name=${name}`);
             }}
             >
               <Input
