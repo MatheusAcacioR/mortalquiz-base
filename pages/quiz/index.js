@@ -1,12 +1,17 @@
 /* eslint-disable linebreak-style */
 /* eslint-disable react/prop-types */
 import React, { useState } from 'react';
+
+/* importação do arquivo de animação e da lib do lottie */
+import Lottie from 'react-lottie';
+import animationData from '../../assets/loading.json';
+
 import db from '../../db.json';
 import Widget from '../../src/components/Widget';
 import QuizLogo from '../../src/components/QuizLogo';
 import QuizBackground from '../../src/components/QuizBackground';
-import QuizContainer from '../../src/components/QuizContainer';
 import AlternativesForm from '../../src/components/AlternativesForm';
+import QuizContainer from '../../src/components/QuizContainer';
 import Button from '../../src/components/Button';
 
 function ResultWidget({ results }) {
@@ -49,14 +54,33 @@ function ResultWidget({ results }) {
 }
 
 function LoadingWidget() {
+  /* estate de animação */
+  const [animateState, setAnimateState] = useState({
+    isStopped: true, isPaused: false,
+  });
+
+  /* Configurações padrão da animação */
+  const defaultOptions = {
+    loop: true,
+    autoplay: true,
+    animationData,
+    rendererSettings: {
+      preserveAspectRatio: 'xMidYMid slice',
+    },
+  };
+
   return (
     <Widget>
-      <Widget.Header>
-        Carregando...
-      </Widget.Header>
 
+      {/* Aqui entra componente da animação */}
       <Widget.Content>
-        [Desafio do Loading]
+        <Lottie
+          options={defaultOptions}
+          height={150}
+          width={150}
+          isStopped={animateState.isStopped}
+          isPaused={animateState.isPaused}
+        />
       </Widget.Content>
     </Widget>
   );
